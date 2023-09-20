@@ -28,7 +28,7 @@
            async function estudiantes() {
                 const data = await fetch("https://raw.githubusercontent.com/profesorfaco/dno037-2023-2/main/clase-07/_curso.json");
                 const datos = await data.json();
-                document.querySelector("blockquote").innerHTML = `${datos[16].motivo}`   
+                document.querySelector("blockquote").innerHTML = `${datos[10].motivo}`   
             }
             estudiantes().catch((error) => console.error(error));
         </script>
