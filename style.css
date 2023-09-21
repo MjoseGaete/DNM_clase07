@@ -255,7 +255,7 @@ blockquote span {
 /* EN EL MAIN  */
 
 main article {
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(179, 255, 255, 0.9);
     margin: 0.25rem;
     border-radius: 0.4rem;
     box-shadow: inset 0 0 1px #eceff1, 0 2px 2px #cfd8dc;
@@ -334,7 +334,7 @@ section.extra{
 }
 
 section.extra div {
-    background: rgba(255, 255, 255, 0.75);
+    background: rgba(255, 128, 128, 0.75);
     margin: 0.75rem 0.25rem;
     padding:1rem;
     border-radius: 0.4rem;
